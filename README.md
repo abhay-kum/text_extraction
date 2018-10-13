@@ -1,5 +1,4 @@
-
-#packages required for extracting text from image 
+#packages required for extracting text from image  
 opencv
 pandas 
 pytesseract
@@ -11,7 +10,7 @@ numpy
 
 #getting text in image 
 
-i have done following processes:
+I have done following processes:
 
 step 1:
         for reading the image and preprocessing using opencv 
