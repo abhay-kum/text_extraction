@@ -1,11 +1,11 @@
 #packages required for extracting text from image  
-opencv
-pandas 
-pytesseract
-cv2
-remove_noise 
-re
-numpy  
+opencv \\
+pandas \\ 
+pytesseract \\
+cv2 \\
+remove_noise \\ 
+re  \\
+numpy \\ 
 
 
 #getting text in image 
